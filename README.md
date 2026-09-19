@@ -10,7 +10,8 @@ This is **not** the cosmogenesis research repository. Research stays in `G:\QNS\
 | Studio | Quantum Narrative School |
 | City | Venezia |
 | Live work wall | [artstation.com/quantumnarrativeschool](https://www.artstation.com/quantumnarrativeschool) |
-| Public pages in this tree | `docs/` (GitHub Pages ready) |
+| Public pages in this tree | `docs/` → live: [cozze1.github.io/nanjie-ma](https://cozze1.github.io/nanjie-ma/) |
+| GitHub | [COZZE1/nanjie-ma](https://github.com/COZZE1/nanjie-ma) · **All rights reserved; no commercial use** (see `LICENSE`, `COPYRIGHT.md`) |
 
 ## Folders
 
