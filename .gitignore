@@ -1,0 +1,55 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+ehthumbs.db
+
+# Editors / local agent config (not for public Pages)
+.vscode/
+.cursor/
+*.swp
+*.swo
+
+# Secrets — never commit
+.env
+.env.*
+*.pem
+*.key
+passwords.txt
+secrets/
+
+# Working dumps
+tmp/
+_scratch/
+*.tmp
+
+# Huge local masters (keep originals on disk; publish web-size derivatives)
+*.psd
+*.psb
+*.tif
+*.tiff
+*.raw
+*.cr2
+*.nef
+*.arw
+*.dng
+*.blend
+*.mov
+*.avi
+*.mkv
+
+# Site video only (other mp4s stay local)
+*.mp4
+!docs/assets/video/*.mp4
+
+# Exhibition masters live under works/; GitHub Pages uses docs/assets/img/
+works/painting/*
+!works/painting/README.md
+!works/painting/TITLES_EN.md
+works/photography/*
+!works/photography/README.md
+
+# Python / Node leftovers if tools are added later
+__pycache__/
+node_modules/
+.venv/
